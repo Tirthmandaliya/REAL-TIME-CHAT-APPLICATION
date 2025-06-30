@@ -48,4 +48,6 @@ This project utilizes a robust technology stack to ensure performance, scalabili
 | **Tailwind CSS** | Responsive and utility-first styling|
 | **Zustand/Redux** | Global state management (Optional) |
 
+# OUTPUT
 
+![Image](https://github.com/user-attachments/assets/2339c912-65ad-48ab-ab2d-7775b62d7785)
