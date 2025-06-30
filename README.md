@@ -14,7 +14,7 @@
 
 The Real-Time Chat Application is a full-stack messaging platform designed to facilitate instant, secure, and user-friendly communication between individuals. Built with the powerful MERN Stack (MongoDB, Express.js, React.js, and Node.js), this project demonstrates modern web development practices, real-time data transfer using Socket.IO, and secure user authentication with JWT tokens. This application is ideal for learning, showcasing technical skills, or expanding as a scalable messaging platform.
 
-#Real-Time Messaging:
+*Real-Time Messaging:
 Instant message delivery and reception using Socket.IO with WebSocket protocol for seamless real-time communication.
 
 #User Authentication:
