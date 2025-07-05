@@ -17,8 +17,13 @@ app.use(express.urlencoded({ limit: '50mb', extended: true }));
 
 app.use(cookieParser());
 
+const allowedOrigins = [
+  "https://your-frontend.vercel.app",  // Vercel frontend URL
+  "http://localhost:5173"              // Optional for development
+];
+
 app.use(cors({
-        origin:"https://real-time-chat-application-3-cac9.onrender.com",
+        origin: allowedOrigins,
         credentials:true,
     })
 );
