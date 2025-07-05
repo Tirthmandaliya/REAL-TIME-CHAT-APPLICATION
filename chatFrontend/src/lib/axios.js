@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-    baseURL:"https://real-time-chat-application-2-53hv.onrender.com/api",
+    baseURL:"https://real-time-chat-application-pr87.onrender.com",
     withCredentials:true,
 });
 
